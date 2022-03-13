@@ -16,5 +16,3 @@ visual studio
 # License
 
 Auther is kowara.
-
-free license.
