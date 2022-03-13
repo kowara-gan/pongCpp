@@ -19,7 +19,7 @@ bool Game::Initialize() {
 
 	// SDLウィンドウを作成
 	mWindow = SDL_CreateWindow(
-		"Game Programming in C++(Chapter1)", // ウィンドウのタイトル
+		"Pong in C++", // ウィンドウのタイトル
 		100, // ウィンドウ左上隅のx座標
 		100, // ウィンドウ左上隅のy座標
 		WIN_W, // ウィンドウの幅(width)
