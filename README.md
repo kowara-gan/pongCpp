@@ -1,4 +1,4 @@
-# Pong by c++ and SDL2
+# Pong in c++(SDL2)
 # DEMO
 after starting or push R-key.
 
