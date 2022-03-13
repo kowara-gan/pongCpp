@@ -17,4 +17,4 @@ visual studio
 
 Auther is kowara.
 
-Please read LICENSE. (2-clause BSD License)
+free license.
