@@ -2,11 +2,11 @@
 # DEMO
 after starting or push R-key.
 
-![](https://cpp-learning.com/wp-content/uploads/2019/05/pyxel-190505-161951.gif)
+![](https://github.com/kowara-gan/pongCpp/blob/master/picture/start.png)
 
 while playing.
 
-![](https://cpp-learning.com/wp-content/uploads/2019/05/pyxel-190505-161951.gif)
+![](https://github.com/kowara-gan/pongCpp/blob/master/picture/play.png)
 
 # Requirement
 windows11
