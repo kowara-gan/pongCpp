@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c8494df8-5ed6-42c8-88b1-37fae218b0e3": {
+      "ProjectGuid": "c8494df8-5ed6-42c8-88b1-37fae218b0e3",
+      "DisplayName": "Pong",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "その他のファイル",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

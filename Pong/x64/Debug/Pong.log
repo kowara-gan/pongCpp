@@ -1,0 +1,70 @@
+﻿  alphanum.cpp
+  ball.cpp
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\ball.cpp(29,13): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\ball.cpp(30,13): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  game.cpp
+  main.cpp
+  paddle.cpp
+  pong.cpp
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(15,58): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(16,59): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(34,58): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(35,59): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(71,58): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(82,59): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(149,105): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(149,63): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(150,101): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(150,63): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(151,91): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(151,47): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(152,101): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(152,63): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(153,105): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(153,63): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(154,109): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(154,67): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(155,105): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(155,67): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(156,105): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(156,67): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(157,109): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(157,67): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(158,105): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(158,67): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(159,105): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(159,67): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(160,92): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(160,67): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(161,88): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(161,67): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(162,88): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(162,67): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(163,105): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(163,63): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(164,101): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(164,63): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(165,91): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(165,47): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(166,101): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(166,63): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(167,105): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(167,63): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(168,95): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(168,51): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(179,105): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(179,63): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(180,101): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(180,63): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(181,91): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(181,47): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(182,101): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(182,63): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(183,105): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(183,63): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(184,95): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\tomok\OneDrive\デスクトップ\Pong\Pong\pong.cpp(184,51): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  Pong.vcxproj -> C:\Users\tomok\OneDrive\デスクトップ\Pong\x64\Debug\Pong.exe
+  ..\external\SDL2-2.0.18\lib\x64\SDL2.dll
+  1 個のファイルをコピーしました
