@@ -147,6 +147,7 @@
   <ItemGroup>
     <ClCompile Include="alphanum.cpp" />
     <ClCompile Include="ball.cpp" />
+    <ClCompile Include="court.cpp" />
     <ClCompile Include="game.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="paddle.cpp" />
@@ -155,6 +156,7 @@
   <ItemGroup>
     <ClInclude Include="alphanum.h" />
     <ClInclude Include="ball.h" />
+    <ClInclude Include="court.h" />
     <ClInclude Include="game.h" />
     <ClInclude Include="paddle.h" />
     <ClInclude Include="pong.h" />

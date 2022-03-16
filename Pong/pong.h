@@ -2,6 +2,7 @@
 #include "SDL.h"
 #include "ball.h"
 #include "paddle.h"
+#include "court.h"
 #include "alphanum.h"
 #include <vector>
 using namespace std;
@@ -12,6 +13,7 @@ struct EraseBall {
 	vector<vector<Ball>::iterator> its;
 	bool isDef;
 };
+
 class Pong
 {
 private:
@@ -22,6 +24,7 @@ private:
 	vector<SDL_Rect> rightScoreAlphaNum;
 	float sinceScoreUp;
 	EraseBall eraseBall;
+	Court court;
 public:
 	Pong();
 	~Pong();

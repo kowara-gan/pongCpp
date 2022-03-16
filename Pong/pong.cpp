@@ -16,6 +16,7 @@ Pong::Pong()
 	rightScoreAlphaNum = Alphanum::getAlphanum(WIN_W * 0.75f - WARD_W / 2, 30, 0);
 	sinceScoreUp = 0;
 	eraseBall.isDef=false;
+	court = Court();
 }
 Pong::~Pong()
 {
@@ -135,7 +136,7 @@ void Pong::render(SDL_Renderer* renderer)
 	leftPaddle->render(renderer);
 	for (auto& ball : mBalls)
 		ball.render(renderer);
-
+	court.render(renderer);
 	if (scene == 0) {
 		Alphanum::writeAlphanum(renderer, 40, 30, 19);//upArrow
 		Alphanum::writeAlphanum(renderer, 40 + WARD_W + WARD_WG, 30, 10);//w

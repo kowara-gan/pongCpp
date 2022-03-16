@@ -79,46 +79,17 @@ void Game::UpdateGame() {
 }
 
 void Game::GenerateOutput() {
-
+	// 背景
 	// 描画色を青色に設定
 	SDL_SetRenderDrawColor(
 		mRenderer,
 		0, 0, 0, 0 // (R,G,B,A)
 	);
-
-	// バックバッファを青色で塗りつぶす
+	// バックバッファを黒色で塗りつぶす
 	SDL_RenderClear(mRenderer);
 
 	// 描画色を白色に設定
 	SDL_SetRenderDrawColor(mRenderer, 255, 255, 255, 255);
-	// 壁を作成
-	SDL_Rect wall{
-		0,			// Top left x
-		0,			// Top left y
-		WIN_W,		// width
-		WALL_W // height
-	};
-	SDL_RenderFillRect(mRenderer, &wall);
-
-	// 下壁を作成
-	wall.y = WIN_H - WALL_W;
-	SDL_RenderFillRect(mRenderer, &wall);
-
-	//中央ネットを生成
-	SDL_Rect net[14];
-
-	int net_fragment_size = (WIN_H - (WALL_W *2)) / 26;
-	int x = WIN_W / 2 - net_fragment_size / 4;
-	int y =7;
-	int step_size = 2 * net_fragment_size;
-
-	for (int index = 0; index < 14; ++index) {
-		net[index] = {
-			x, y + index * step_size, net_fragment_size/2, net_fragment_size
-		};
-	}
-	for (int index = 0; index < 14; ++index)
-		SDL_RenderFillRect(mRenderer, &net[index]);
 
 	pong->render(mRenderer);
 	// バックバッファとフロントバッファを入れ替え
