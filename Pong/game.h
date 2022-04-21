@@ -5,9 +5,9 @@
 #include <math.h>
 #include <iostream>//デバックとかで
 #include "SDL.h"
-#include "ball.h"
-#include "paddle.h"
-#include "pong.h"
+#include "Ball.h"
+#include "Paddle.h"
+#include "Pong.h"
 #ifndef M_PI
 #define M_PI 3.1415926
 #endif

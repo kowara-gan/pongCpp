@@ -1,5 +1,5 @@
-#include "pong.h"
-#include "game.h"
+#include "Pong.h"
+#include "Game.h"
 
 Pong::Pong()
 {

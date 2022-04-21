@@ -1,5 +1,5 @@
-#include "court.h"
-#include "game.h"
+#include "Court.h"
+#include "Game.h"
 
 
 Court::Court()

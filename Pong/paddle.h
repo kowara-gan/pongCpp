@@ -1,6 +1,6 @@
 #pragma once
 #include "SDL.h"
-#include "ball.h"
+#include "Ball.h"
 #include <vector>
 class Ball;
 //衝突予想に使用する構造体

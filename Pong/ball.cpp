@@ -1,5 +1,5 @@
-#include "ball.h"
-#include "game.h"
+#include "Ball.h"
+#include "Game.h"
 #include <random>
 
 Ball::Ball()

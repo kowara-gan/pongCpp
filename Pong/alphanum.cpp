@@ -1,5 +1,5 @@
-#include "alphanum.h"
-#include "game.h"
+#include "Alphanum.h"
+#include "Game.h"
 
 using namespace std;
 int wards[23][5][5] = {

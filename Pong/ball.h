@@ -1,7 +1,7 @@
 #pragma once
 #include "SDL.h"
-#include "paddle.h"
-#include "pong.h"
+#include "Paddle.h"
+#include "Pong.h"
 #include <vector>
 class Pong;
 class Paddle;

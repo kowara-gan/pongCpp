@@ -1,9 +1,9 @@
 #pragma once
 #include "SDL.h"
-#include "ball.h"
-#include "paddle.h"
-#include "court.h"
-#include "alphanum.h"
+#include "Ball.h"
+#include "Paddle.h"
+#include "Court.h"
+#include "Alphanum.h"
 #include <vector>
 using namespace std;
 class Ball;

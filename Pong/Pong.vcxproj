@@ -145,21 +145,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="alphanum.cpp" />
-    <ClCompile Include="ball.cpp" />
-    <ClCompile Include="court.cpp" />
-    <ClCompile Include="game.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="paddle.cpp" />
-    <ClCompile Include="pong.cpp" />
+    <ClCompile Include="Alphanum.cpp" />
+    <ClCompile Include="Ball.cpp" />
+    <ClCompile Include="Court.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Paddle.cpp" />
+    <ClCompile Include="Pong.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="alphanum.h" />
-    <ClInclude Include="ball.h" />
-    <ClInclude Include="court.h" />
-    <ClInclude Include="game.h" />
-    <ClInclude Include="paddle.h" />
-    <ClInclude Include="pong.h" />
+    <ClInclude Include="Alphanum.h" />
+    <ClInclude Include="Ball.h" />
+    <ClInclude Include="Court.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="Paddle.h" />
+    <ClInclude Include="Pong.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

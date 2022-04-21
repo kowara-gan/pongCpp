@@ -1,5 +1,5 @@
-#include "paddle.h"
-#include "game.h"
+#include "Paddle.h"
+#include "Game.h"
 
 Paddle::Paddle(float x, float y,bool isAI)
 {
